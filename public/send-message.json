@@ -1,0 +1,14 @@
+{
+    "id": "3Qtgd8AlTs-X8TWMGRZqQQ",
+    "sessionId": "1OwnPI80S7yA0IIIx4VQqq",
+    "body": [
+        {
+            "type": "text",
+            "value": "Hardcoded response from send-message.json"
+        }
+    ],
+    "timestamp": 1772844743000,
+    "userId": "dznqbit",
+    "completed": false,
+    "customData": {}
+}
